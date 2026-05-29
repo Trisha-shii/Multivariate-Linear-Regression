@@ -21,8 +21,8 @@ Predict the CO2 emission of a car where the weight is 2300kg, and the volume is 
 
 ## Program:
 ```
-Developed by : KABELAN G K
-Reg No : 24900985
+Developed by : TRISHA PRIYADARSHNI PARIDA
+Reg No : 24900017
 ```
 ```
 import pandas as pd
@@ -38,7 +38,8 @@ predictedCO2 = regr.predict(pd.DataFrame([[3300, 1300]], columns=['Weight', 'Vol
 print('Predicted CO2 for the corresponding weight and volume:', predictedCO2)
 ```
 ## Output:
-![Output Image](image.png)
+<img width="822" height="82" alt="image" src="https://github.com/user-attachments/assets/a3edfb0e-a076-41f0-b9a6-032d0a421321" />
+
 <br>
 
 ## Result
